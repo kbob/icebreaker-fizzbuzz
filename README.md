@@ -10,7 +10,7 @@ in Verilog.
 
 Here's a quick demo of the finished program.
 
-[![Demo on YouTube](https://img.youtube.com/vi/_z16ZLBM3ygE/0.jpg)](https://www.youtube.com/watch?v=_z16LBM3ygE)
+[![Demo on YouTube](screen-shot.png)](https://www.youtube.com/watch?v=_z16LBM3ygE)
 
 
 ## Hardware
