@@ -5,11 +5,13 @@ be able to write
 [the classic FizzBuzz algorithm](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/)
 in Verilog.
 
+
 ## Video
 
 Here's a quick demo of the finished program.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_z16LBM3ygE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Demo on YouTube](https://img.youtube.com/vi/_z16ZLBM3ygE/0.jpg)](https://www.youtube.com/watch?v=_z16LBM3ygE)
+
 
 ## Hardware
 
